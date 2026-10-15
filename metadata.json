@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Sudoku - Brain Training",
+  "description": "Juego de Sudoku interactivo con enfoque cognitivo para memoria y agilidad mental, estadísticas avanzadas, pistas inteligentes, desafíos semanales y tutorial paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
